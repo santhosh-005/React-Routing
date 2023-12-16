@@ -6,7 +6,7 @@ import Allroutes from './components/Allroutes'
 function App() {
   
   return (
- <div>
+ <div id='whole-Container'>
   <NavBar />
   <Allroutes />
  </div>
